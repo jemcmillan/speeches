@@ -196,16 +196,17 @@ ul.ed {
   font-family: sans-serif;
   font-size: 32px;
   color: black;
-  margin: 15px 0 15px 0; padding: 15px 0 15px 0;
+  margin: 20px 0 0 0; padding: 30px 0 0 0;
 }
 
-h1.center {
+h1.hh {
   text-align: center;
   font-style: normal;
   font-weight: bold;
   font-family: sans-serif;
   font-size: 32px;
   color: black;
+  margin: 0 0 15px 0; padding: 15px 0 15px 0;
 }
 
 ul.speech {
